@@ -1,4 +1,4 @@
-# Hi there 👋🏾, I'm Ernest 👨🏾‍💻.
+# Hi there 👋🏾, I'm Ernest 👨🏾‍💻
 
 <img src="banner.webp" align="center" alt="me"/>
 
@@ -78,3 +78,5 @@
 - Browsing my <a href="mailto:ernest.nkansah-badu.19@ucl.ac.uk?subject=Found you on GitHub!&body=Express yourself, I'll respond!">email</a>.
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/ernxst/) - _unlikely, but do get in touch_.
 - (Re-)Tweeting on [Twitter](https://twitter.com/ernestjbadu) - _also very unlikely but we can still follow each other_.
+
+Why not take a look at my [website](https://ernestbadu.me)?
