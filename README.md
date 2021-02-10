@@ -6,6 +6,9 @@
 - 🎓 Computer Science Student at University College London.
 - 🛠 Outside of my studies, I like to build things that people probably won't ever use.
 
+## Currently Working on...
+<p align="center">I'm currently working on <i>Concierge</i>, a voice assistant aimed at making common services more accessible to the elderly in these times of social isolation. Working as part of the IBM FISE portfolio of social isolation projects. You can learn more about it <a href="http://students.cs.ucl.ac.uk/2020/group25/index.html">here</a>.</p>
+
 ## 💻 Tech Stack & Dev Tools
 
 - <p align="left">
