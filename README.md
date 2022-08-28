@@ -3,8 +3,8 @@
 <img src="banner.webp" align="center" alt="me"/>
 
 ## 🙋🏾‍♂️About Me
-- 🎓 Computer Science Student at University College London.
-- 🛠 Outside of my studies, I like to build things that people probably won't ever use.
+- 🎓 First Class BSc Computer Science from University College London.
+- 🛠 Outside of my studies, I like to build things
 
 ## Currently Working on...
 <p align="center">I'm currently working on <i>Concierge</i>, a voice assistant aimed at making common services more accessible to the elderly in these times of social isolation. Working as part of the IBM FISE portfolio of social isolation projects. You can learn more about it <a href="http://students.cs.ucl.ac.uk/2020/group25/index.html">here</a>.</p>
@@ -78,8 +78,8 @@
 
 ## ✉️ Get in touch
 
-- Browsing my <a href="mailto:ernest.nkansah-badu.19@ucl.ac.uk?subject=Found you on GitHub!&body=Express yourself, I'll respond!">email</a>.
-- Sharing updates on [LinkedIn](https://www.linkedin.com/in/ernxst/) - _unlikely, but do get in touch_.
+- Browsing my <a href="mailto:ernestjbadu@outlook.com?subject=Found you on GitHub!&body=Express yourself, I'll respond!">email</a>.
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/ernestjbadu/) - _unlikely, but do get in touch_.
 - (Re-)Tweeting on [Twitter](https://twitter.com/ernestjbadu) - _also very unlikely but we can still follow each other_.
 
 Why not take a look at my [website](https://ernestbadu.me)?
